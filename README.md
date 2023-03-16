@@ -1,11 +1,11 @@
-Hi there! 👋
+# Hi there! 👋
 My name is Kemal Bekir, and I'm a programming enthusiast based in Maidstone, UK 🇬🇧 originally from Bulgaria 🇧🇬. I've been captivated by technology since a young age and have always been drawn to programming as a way to explore its endless possibilities.
 
-👨‍💻 About me
+# 👨‍💻 About me
 
 Even though I don't have any professional experience in programming yet, I have dedicated a significant amount of time to learning and practicing different programming languages and technologies. I am always seeking to expand my knowledge and challenge myself with new projects, from developing small web applications to building my own hardware projects.
 
-📫 Get in touch
+# 📫 Get in touch
 
 I'm excited to continue growing as a programmer and look forward to the opportunities that lie ahead. If you have any questions or ideas you'd like to share, don't hesitate to get in touch!
 
