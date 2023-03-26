@@ -43,7 +43,7 @@ Even though I don't have any professional experience in programming yet, I have 
       <img src="https://github.com/KemalBekir/KemalBekir/blob/main/Certificates/HTMLCSS.jpg" alt="HTML and CSS Certificate" style="width:25%;">
     </a>
   </div>
-  <div style="flex-basis:
+</div>
 
 
 ## 📫 Get in touch
