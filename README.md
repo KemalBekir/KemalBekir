@@ -10,37 +10,37 @@ Even though I don't have any professional experience in programming yet, I have 
 <div style="display:flex;flex-wrap:wrap;">
   <div style="flex-basis:25%;padding:10px;">
     <a href="https://softuni.bg/certificates/certificates/converttoimage/101726?code=a2ca56ed">
-      <img src="https://github.com/KemalBekir/KemalBekir/blob/main/Certificates/JSBasics.jpg" alt="JS Basic Certificate" style="max-width:25%;">
+      <img src="https://github.com/KemalBekir/KemalBekir/blob/main/Certificates/JSBasics.jpg" alt="JS Basic Certificate" style="width:25%;">
     </a>
   </div>
   <div style="flex-basis:25%;padding:10px;">
     <a href="https://softuni.bg/certificates/certificates/converttoimage/111120?code=1c090b3e">
-      <img src="https://github.com/KemalBekir/KemalBekir/blob/main/Certificates/JSFundamentals.jpg" alt="JS Fundamentals Certificate" style="max-width:25%;">
+      <img src="https://github.com/KemalBekir/KemalBekir/blob/main/Certificates/JSFundamentals.jpg" alt="JS Fundamentals Certificate" style="width:25%;">
     </a>
   </div>
   <div style="flex-basis:25%;padding:10px;">
     <a href="https://softuni.bg/certificates/certificates/converttoimage/121123?code=4b6055dc">
-      <img src="https://github.com/KemalBekir/KemalBekir/blob/main/Certificates/JSAdvanced.jpg" alt="JS Advanced Certificate" style="max-width:25%;">
+      <img src="https://github.com/KemalBekir/KemalBekir/blob/main/Certificates/JSAdvanced.jpg" alt="JS Advanced Certificate" style="width:25%;">
     </a>
   </div>
   <div style="flex-basis:25%;padding:10px;">
     <a href="https://softuni.bg/certificates/certificates/converttoimage/120845?code=9373acd8">
-      <img src="https://github.com/KemalBekir/KemalBekir/blob/main/Certificates/JSApplications.jpg" alt="JS Applications Certificate" style="max-width:25%;">
+      <img src="https://github.com/KemalBekir/KemalBekir/blob/main/Certificates/JSApplications.jpg" alt="JS Applications Certificate" style="width:25%;">
     </a>
   </div>
   <div style="flex-basis:25%;padding:10px;">
     <a href="https://softuni.bg/certificates/certificates/converttoimage/153369?code=95a19b2c">
-      <img src="https://github.com/KemalBekir/KemalBekir/blob/main/Certificates/JSBackEnd.jpg" alt="JS Back-End Certificate" style="max-width:25%;">
+      <img src="https://github.com/KemalBekir/KemalBekir/blob/main/Certificates/JSBackEnd.jpg" alt="JS Back-End Certificate" style="width:25%;">
     </a>
   </div>
   <div style="flex-basis:25%;padding:10px;">
     <a href="https://softuni.bg/certificates/certificates/converttoimage/133054?code=49dad417">
-      <img src="https://github.com/KemalBekir/KemalBekir/blob/main/Certificates/Angular.jpg" alt="Angular Certificate" style="max-width:25%;">
+      <img src="https://github.com/KemalBekir/KemalBekir/blob/main/Certificates/Angular.jpg" alt="Angular Certificate" style="width:25%;">
     </a>
   </div>
   <div style="flex-basis:25%;padding:10px;">
     <a href="https://softuni.bg/certificates/certificates/converttoimage/142231?code=18a2c3bb">
-      <img src="https://github.com/KemalBekir/KemalBekir/blob/main/Certificates/HTMLCSS.jpg" alt="HTML and CSS Certificate" style="max-width:25%;">
+      <img src="https://github.com/KemalBekir/KemalBekir/blob/main/Certificates/HTMLCSS.jpg" alt="HTML and CSS Certificate" style="width:25%;">
     </a>
   </div>
   <div style="flex-basis:
