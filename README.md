@@ -7,7 +7,7 @@ Even though I don't have any professional experience in programming yet, I have 
 
 ## 🎓 Certificates
 
-<div style="display:flex;flex-wrap:wrap;">
+<div style="display:flex;flex-wrap:wrap; flex-direction: row;">
   <div style="flex-basis:25%;padding:10px;">
     <a href="https://softuni.bg/certificates/certificates/converttoimage/101726?code=a2ca56ed">
       <img src="https://github.com/KemalBekir/KemalBekir/blob/main/Certificates/JSBasics.jpg" alt="JS Basic Certificate" style="width:25%;">
