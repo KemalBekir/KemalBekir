@@ -7,71 +7,10 @@ Even though I don't have any professional experience in programming yet, I have 
 
 ## 🎓 Certificates
 
-<div style="display: flex;
-      flex-wrap: wrap;
-      flex-direction: row;
-      justify-content: space-between;">
-  <div style="width: 22%;
-     padding-bottom: 5px;">
-    <a href="https://softuni.bg/certificates/certificates/converttoimage/101726?code=a2ca56ed">
-      <img src="https://github.com/KemalBekir/KemalBekir/blob/main/Certificates/JSBasics.jpg" alt="JS Basic Certificate" style="width: 100%;
-        height: 100%;">
-    </a>
-  </div>
-  <div style="width: 22%;
-     padding-bottom: 5px;">
-    <a href="https://softuni.bg/certificates/certificates/converttoimage/111120?code=1c090b3e">
-      <img src="https://github.com/KemalBekir/KemalBekir/blob/main/Certificates/JSFundamentals.jpg" alt="JS Fundamentals Certificate" style="width: 100%;
-        height: 100%;">
-    </a>
-  </div>
-  <div style="width: 22%;
-     padding-bottom: 5px;">
-    <a href="https://softuni.bg/certificates/certificates/converttoimage/121123?code=4b6055dc">
-      <img src="https://github.com/KemalBekir/KemalBekir/blob/main/Certificates/JSAdvanced.jpg" alt="JS Advanced Certificate" style="width: 100%;
-        height: 100%;">
-    </a>
-  </div>
-  <div style="width: 22%;
-     padding-bottom: 5px;">
-    <a href="https://softuni.bg/certificates/certificates/converttoimage/120845?code=9373acd8">
-      <img src="https://github.com/KemalBekir/KemalBekir/blob/main/Certificates/JSApplications.jpg" alt="JS Applications Certificate" style="width: 100%;
-        height: 100%;">
-    </a>
-  </div>
-  <div style="width: 22%;
-     padding-bottom: 5px;">
-    <a href="https://softuni.bg/certificates/certificates/converttoimage/153369?code=95a19b2c">
-      <img src="https://github.com/KemalBekir/KemalBekir/blob/main/Certificates/JSBackEnd.jpg" alt="JS Back-End Certificate" style="width: 100%;
-        height: 100%;">
-    </a>
-  </div>
-  <div style="width: 22%;
-     padding-bottom: 5px;">
-    <a href="https://softuni.bg/certificates/certificates/converttoimage/133054?code=49dad417">
-      <img src="https://github.com/KemalBekir/KemalBekir/blob/main/Certificates/Angular.jpg" alt="Angular Certificate" style="width: 100%;
-        height: 100%;">
-    </a>
-  </div>
-  <div style="width: 22%;
-     padding-bottom: 5px;">
-    <a href="https://softuni.bg/certificates/certificates/converttoimage/142231?code=18a2c3bb">
-      <img src="https://github.com/KemalBekir/KemalBekir/blob/main/Certificates/HTMLCSS.jpg" alt="HTML and CSS Certificate" style="width: 100%;
-        height: 100%;">
-    </a>
-  </div>
-   <div class="item">
-        <a
-          href="https://github.com/KemalBekir/KemalBekir/blob/main/Certificates/ReactJS.jpg?raw=true"
-          style="width: 25%"
-        >
-          <img
-            src="https://github.com/KemalBekir/KemalBekir/blob/main/Certificates/ReactJS.jpg"
-            alt="React Certificate"
-          />
-        </a>
-      </div>
-</div>
+| [![JS Basic Certificate](https://github.com/KemalBekir/KemalBekir/blob/main/Certificates/JSBasics.jpg?raw=true)](https://softuni.bg/certificates/certificates/converttoimage/101726?code=a2ca56ed) | [![JS Fundamentals Certificate](https://github.com/KemalBekir/KemalBekir/blob/main/Certificates/JSFundamentals.jpg?raw=true)](https://softuni.bg/certificates/certificates/converttoimage/111120?code=1c090b3e) | [![JS Advanced Certificate](https://github.com/KemalBekir/KemalBekir/blob/main/Certificates/JSAdvanced.jpg?raw=true)](https://softuni.bg/certificates/certificates/converttoimage/121123?code=4b6055dc) | [![JS Applications Certificate](https://github.com/KemalBekir/KemalBekir/blob/main/Certificates/JSApplications.jpg?raw=true)](https://softuni.bg/certificates/certificates/converttoimage/120845?code=9373acd8) |
+| --- | --- | --- | --- |
+| [![JS Back-End Certificate](https://github.com/KemalBekir/KemalBekir/blob/main/Certificates/JSBackEnd.jpg?raw=true)](https://softuni.bg/certificates/certificates/converttoimage/153369?code=95a19b2c) | [![Angular Certificate](https://github.com/KemalBekir/KemalBekir/blob/main/Certificates/Angular.jpg?raw=true)](https://softuni.bg/certificates/certificates/converttoimage/133054?code=49dad417) | [![HTML and CSS Certificate](https://github.com/KemalBekir/KemalBekir/blob/main/Certificates/HTMLCSS.jpg?raw=true)](https://softuni.bg/certificates/certificates/converttoimage/142231?code=18a2c3bb) | [![React Certificate](https://github.com/KemalBekir/KemalBekir/blob/main/Certificates/ReactJS.jpg?raw=true)](https://github.com/KemalBekir/KemalBekir/blob/main/Certificates/ReactJS.jpg?raw=true) |
+
 
 
 ## 📫 Get in touch
