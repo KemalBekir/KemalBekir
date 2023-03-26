@@ -5,6 +5,35 @@ My name is Kemal Bekir, and I'm a programming enthusiast based in Maidstone, UK 
 
 Even though I don't have any professional experience in programming yet, I have dedicated a significant amount of time to learning and practicing different programming languages and technologies. I am always seeking to expand my knowledge and challenge myself with new projects, from developing small web applications to building my own hardware projects.
 
+## 🎓 Certificates
+
+<div style="display:flex;flex-wrap:wrap;">
+   <div style="flex-basis:25%;padding:10px;">
+      <a href="https://softuni.bg/certificates/certificates/converttoimage/101726?code=a2ca56ed"><img                             src="https://github.com/KemalBekir/KemalBekir/blob/main/Certificates/JSBasics.jpg" alt="JS Basic Certificate"></a>
+   </div>
+    <div style="flex-basis:25%;padding:10px;">
+<a href="https://softuni.bg/certificates/certificates/converttoimage/111120?code=1c090b3e"><img src="https://github.com/KemalBekir/KemalBekir/blob/main/Certificates/JSFundamentals.jpg" alt="JS Fundamentals Certificate"></a>
+</div>
+ <div style="flex-basis:25%;padding:10px;">
+<a href="https://softuni.bg/certificates/certificates/converttoimage/121123?code=4b6055dc"><img src="https://github.com/KemalBekir/KemalBekir/blob/main/Certificates/JSAdvanced.jpg" alt="JS Advanced Certificate"></a>
+</div>
+ <div style="flex-basis:25%;padding:10px;">
+<a href="https://softuni.bg/certificates/certificates/converttoimage/120845?code=9373acd8"><img src="https://github.com/KemalBekir/KemalBekir/blob/main/Certificates/JSApplications.jpg" alt="JS Applications Certificate"></a>
+</div>
+ <div style="flex-basis:25%;padding:10px;">
+<a href="https://softuni.bg/certificates/certificates/converttoimage/153369?code=95a19b2c"><img src="https://github.com/KemalBekir/KemalBekir/blob/main/Certificates/JSBackEnd.jpg" alt="JS Back-End Certificate"></a>
+</div>
+ <div style="flex-basis:25%;padding:10px;">
+<a href="https://softuni.bg/certificates/certificates/converttoimage/133054?code=49dad417"><img src="https://github.com/KemalBekir/KemalBekir/blob/main/Certificates/Angular.jpg" alt="Angular Certificate"></a>
+</div>
+ <div style="flex-basis:25%;padding:10px;">
+<a href="https://softuni.bg/certificates/certificates/converttoimage/142231?code=18a2c3bb"><img src="https://github.com/KemalBekir/KemalBekir/blob/main/Certificates/HTMLCSS.jpg" alt="HTML and CSS Certificate"></a>
+</div>
+ <div style="flex-basis:25%;padding:10px;">
+<a href="https://softuni.bg/certificates/certificates/converttoimage/140687?code=7ee563bf"><img src="https://github.com/KemalBekir/KemalBekir/blob/main/Certificates/ReactJS.jpg" alt="React Certificate"></a>
+</div>
+</div>
+
 ## 📫 Get in touch
 
 I'm excited to continue growing as a programmer and look forward to the opportunities that lie ahead. If you have any questions or ideas you'd like to share, don't hesitate to get in touch!
